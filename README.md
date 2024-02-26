@@ -23,7 +23,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 bash ./tools/dist_train.sh local_configs/metaseg/ti
 ```
 
 ## Evaluation
-Download trained weights.
 
 Example - Evaluate ```MetaSeg-T``` on ```ADE20K```:
 
