@@ -1,4 +1,4 @@
-# MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation (Accepted in WACV 2024)
+# MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation (Accepted by WACV 2024)
 
 The code is based on [MMSegmentaion v0.24.1](https://github.com/open-mmlab/mmsegmentation/tree/v0.24.1).
 
