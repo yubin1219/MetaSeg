@@ -6,6 +6,8 @@
 
 > Sogang University
 
+#### The official code is available at [here](https://github.com/hyunwoo137/MetaSeg/tree/main).
+
 ![metaseg](https://github.com/user-attachments/assets/545c2aa4-82fe-48de-951a-3e8b091a6225)
 > 
 ## Installation
