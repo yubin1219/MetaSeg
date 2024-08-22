@@ -1,4 +1,4 @@
-# MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation (Accepted by WACV 2024)
+# MetaSeg: MetaFormer-Based Global Contexts-Aware Network for Efficient Semantic Segmentation (Accepted by WACV 2024)
 ### 📝[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kang_MetaSeg_MetaFormer-Based_Global_Contexts-Aware_Network_for_Efficient_Semantic_Segmentation_WACV_2024_paper.pdf)
 
 > #### Beoungwoo Kang\*, Seunghun Moon\*, Yubin Cho\*, Hyunwoo Yu\*, Suk-ju Kang<sup>&dagger;</sup>
